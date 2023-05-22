@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted ⏳](#links) |
+  | Solution URL: | [CLIPBOARD LANDING PAGE 🎯 [ ACCESSIBLE - ES6 - BEM - VANILLA CSS3 ]](https://www.frontendmentor.io/solutions/clipboard-landing-page-accessible-es6-bem-vanilla-css3-Y3Y3OQ8o--) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/clipboard-landing-page/](https://0xabdulkhalid.github.io/clipboard-landing-page/) |
   |||
 
